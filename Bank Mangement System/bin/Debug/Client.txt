@@ -1,0 +1,21 @@
+ali,20,mohamed,abasya,01148650400,49000,False,1000,1
+mostafa,30,balabezo,abaseya,01148650400,50000,False,500,2
+soha,40,Alaa,abaseya,01148650400,50000,True,1000,3
+weza,12,amr ahmed,01020807249,absaia,10000,False,0,4
+doha,1,do7a sa3ed,010100101010,hadai2,123123123,False,5400,5
+3ezat,010,mohamed ezzat,01020807249,nasr city,1011000,True,5000,6
+maher,016,abdelawahad,010101010,absaoaa,10110101,True,90,7
+manar,0100,manar ramdan,01020807349,absaia,1000,True,99810,8
+amany,01000,amany wahed ,01020807249,absaia,10000,True,200,9
+amira,1090,balbezo,0120807249,absaia,5000,True,2000,10
+aya,0909,aya magdy,absaia,01020807249,2000032.5,True,2.5,11
+karim,01010,karim ibrahem,absaia,01020807249,20000,True,100,12
+mostafa,01020,mostafa ibrahem,absaia,01020807249,1000000,False,0,13
+etman,0909,mohamed etman,absaia,010101010,200000000,True,0,14
+soso,333,se3a,zawya,01234567890,20000,True,0,15
+raghda,12345,raghda ahmed,nasr city,01120949716,10000,True,0,16
+taghreed,12,taghreed ahmed,nasr city,01020807249,2000,True,0,17
+abdelwahab,010,abdelwahab alaa,zaton,01020807249,1000000,True,0,18
+Muhammad,6694mu00,Abdelmaqsoud,440 fifth settlement,01145075504,10000002000000,True,0,19
+somaya,2090,somaya elshwarby,nasr city,01020807249,100000000,True,0,20
+amr,a,amr ahmed,asd,01020,1000,True,0,21

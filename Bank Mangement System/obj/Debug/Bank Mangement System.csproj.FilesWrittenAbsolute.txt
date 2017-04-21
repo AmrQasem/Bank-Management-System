@@ -1,0 +1,21 @@
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank_Mangement_System.Form1.resources
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank_Mangement_System.Form10.resources
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank_Mangement_System.Form11.resources
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank_Mangement_System.Form12.resources
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank_Mangement_System.Form13.resources
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank_Mangement_System.Form14.resources
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank_Mangement_System.Form2.resources
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank_Mangement_System.Form3.resources
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank_Mangement_System.Form4.resources
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank_Mangement_System.Form5.resources
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank_Mangement_System.Form6.resources
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank_Mangement_System.Form7.resources
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank_Mangement_System.Form8.resources
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank_Mangement_System.Form9.resources
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank_Mangement_System.Properties.Resources.resources
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/bin/Debug/Bank Mangement System.exe.config
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/bin/Debug/Bank Mangement System.exe.mdb
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/bin/Debug/Bank Mangement System.exe
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank Mangement System.exe
+/media/amr/New Volume/F C I S/seconed year/second term/oop/finalBank Mangement System/Bank Mangement System/obj/Debug/Bank Mangement System.exe.mdb

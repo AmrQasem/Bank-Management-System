@@ -1,0 +1,9 @@
+pola,25,abasya,24728765,GUC,2002,Very Good,Manager
+asdad,123123,QWDSF,1231231,asd,2323,asd,sdad
+qasdasf,1231,asdas,2313,asfas,213,saca,sasf
+amr ahmed,12,nasr city,012094971,CS,2010,Good,HR
+basb,123,asdasd,213123,asdasd,2123,sdasd,qsdqd
+3ezat,2020,sab3,01148650400,AUC,2015,Good,IT
+ahmed,123,17 el kamal st,022156,CIS ,4,Excellent,IT
+amr ahmed,1,nasr city,01020807249,FCIS,2018,Very Good,HR
+shaltot,20,tanta,01020807249,CS,2018,Excellent,IT
