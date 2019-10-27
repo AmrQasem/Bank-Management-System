@@ -32,7 +32,7 @@ namespace Bank_Mangement_System
             if(user.IsActive()==true && user.Name!= null)
             {
                 this.Visible = false;
-                Form8 f8 =new Form8(user.UserName,user.Password);
+                Form_8 f8 =new Form_8(user.UserName,user.Password);
                 f8.Visible = true;
             }
             else if(user.IsActive()==false)

@@ -31,18 +31,18 @@ namespace Bank_Mangement_System
             f5.Visible = true;
         }
 
-        private void Log_Out_Click(object sender, EventArgs e)
-        {
-            this.Visible = false;
-            Form1 f1 = new Form1();
-            f1.Visible = true;
-        }
-
         private void btnClose_Click(object sender, EventArgs e)
         {
             this.Visible = false;
             Form12 f12 = new Form12();
             f12.Visible = true;
         }
-    }
+
+		private void Log_out_Click_1(object sender, EventArgs e)
+		{
+			this.Visible = false;
+			Form1 f1 = new Form1();
+			f1.Visible = true;
+		}
+	}
 }
