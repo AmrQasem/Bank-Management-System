@@ -36,7 +36,7 @@ namespace Bank_Mangement_System
         private void btnCancel_Click(object sender, EventArgs e)
         {
             this.Visible = false;
-            Form8 F8 = new Form8(newClient.UserName, newClient.Password);
+            Form_8 F8 = new Form_8(newClient.UserName, newClient.Password);
             F8.Visible = true;
         }
 
@@ -56,7 +56,7 @@ namespace Bank_Mangement_System
             File.Copy("NewClient.txt", "Client.txt");
             File.Delete("NewClient.txt");
             this.Visible = false;
-            Form8 F8 = new Form8(newClient.UserName, newClient.Password);
+            Form_8 F8 = new Form_8(newClient.UserName, newClient.Password);
             F8.Visible = true;
         }
     }

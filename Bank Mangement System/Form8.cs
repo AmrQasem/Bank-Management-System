@@ -11,12 +11,12 @@ using System.IO;
 
 namespace Bank_Mangement_System
 {
-    public partial class Form8 : Form
+    public partial class Form_8 : Form
     {
         public string User_Name { set; get; }
         public string PassWord { set; get; }
         Client newClient = new Client();
-        public Form8(string UN, string PW)
+        public Form_8(string UN, string PW)
         {
             InitializeComponent();
             this.User_Name = UN;

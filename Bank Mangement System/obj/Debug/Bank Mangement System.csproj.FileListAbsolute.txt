@@ -137,3 +137,21 @@ F:\F C I S\seconed year\second term\oop\finalBank Mangement System\Bank Mangemen
 F:\F C I S\seconed year\second term\oop\finalBank Mangement System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Form9.resources
 F:\F C I S\seconed year\second term\oop\finalBank Mangement System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Properties.Resources.resources
 F:\F C I S\seconed year\second term\oop\finalBank Mangement System\Bank Mangement System\obj\Debug\Bank Mangement System.csproj.GenerateResource.Cache
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\bin\Debug\Bank Mangement System.exe
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Form1.resources
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Form10.resources
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Form11.resources
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Form12.resources
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Form13.resources
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Form14.resources
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Form2.resources
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Form3.resources
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Form4.resources
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Form5.resources
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Form6.resources
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Form7.resources
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Form_8.resources
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Form9.resources
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank_Mangement_System.Properties.Resources.resources
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank Mangement System.csproj.GenerateResource.cache
+F:\programming\pull requests\Bank management system\Bank-Management-System\Bank Mangement System\obj\Debug\Bank Mangement System.csproj.CoreCompileInputs.cache
